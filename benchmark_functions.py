@@ -1,5 +1,5 @@
 
-def sphere(sulution):
+def sphere(solution):
     d = len(solution)
     sumatory = 0
     for i in range(0, d):
