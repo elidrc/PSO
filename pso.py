@@ -1,6 +1,5 @@
 from numpy import *
 
-import matplotlib.pyplot as plt
 
 
 def init_pso(iterations, particles, search_space):
